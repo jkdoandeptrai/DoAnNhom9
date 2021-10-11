@@ -5,4 +5,6 @@ def helloWorld(x:int):
         print("hello world")
     else:
         print("hello gitHub")
+def newFeature():
+    print("Test branch")
 helloWorld(0)
